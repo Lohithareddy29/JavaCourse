@@ -2,7 +2,7 @@ import java.util.*;
 
 public class PolycarpTasks {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        printing sc = new printing(System.in);
         int t = Integer.parseInt(sc.nextLine()); // number of test cases
 
         while (t-- > 0) {
